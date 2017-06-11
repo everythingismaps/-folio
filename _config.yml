@@ -11,10 +11,10 @@ github_username:  everythingismaps
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 
 # Pagination
-paginate: 15
+paginate: 10
 paginate_path: "/blog/page:num/"
 
 
