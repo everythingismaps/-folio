@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Everything is Maps
+email: contact@philipmallis.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  A place for maps by Philip Mallis.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+url:  https://everythingismaps.github.io # the base hostname & protocol for your site
+twitter_username: philipmallis
+github_username:  everythingismaps
 
 # Build settings
 markdown: kramdown
