@@ -2,7 +2,7 @@
 layout: post
 title: chernarus public transport map
 date: 2017-06-13 10:00:00
-description: fictional map of public transport in Chernarus
+description: a fictional map of public transport in Chernarus
 comments: true
 ---
 {% include map_header.html %}
