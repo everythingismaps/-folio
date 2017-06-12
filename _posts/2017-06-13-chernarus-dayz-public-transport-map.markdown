@@ -8,7 +8,7 @@ comments: true
 {% include map_header.html %}
 
 <div class="img_row_map">
-	<img class="col three" src="{{ site.baseurl }}/img/maps/Chernarus_Schematic_Public_Transport_Map_V2.png">
+	<a href="{{ site.baseurl }}/img/maps/Chernarus_Schematic_Public_Transport_Map_V2.png><img class="col three" src="{{ site.baseurl }}/img/maps/Chernarus_Schematic_Public_Transport_Map_V2.png"></a>
 </div>
 
 Chernarus: a forgotten region in the windswept depths of Eastern Europe, it still bears the scars of a recent past dominated by the Soviet Union.
@@ -35,14 +35,18 @@ The map's presentation has also been completeley remade from the ground up. Usin
 
 Some other changes from the previous version include:
 <ul>
-	<li>Adding a new bus stop at NWAF (North West Airfield) and Topolka Dam</li>
+	<li>Adding a new bus stop at <a href="http://dayz.gamepedia.com/Mod:Krasnostav" target="_blank">North East Airfield</a> and Topolka Dam</li>
 	<li>Reorganising the legend for space efficiency</li>
 	<li>Changing railway colour scheme and station shapes</li>
 	<li>Adding 'Chernarus Transit' logo</li>
 </ul>
 
-### Planning the Network
+To clarify, this map is based on the original Arma 2 mod version of Chernarus, not Chernarus+ in DayZ Standalone. There are important differences between these two regions.
 
+<hr>
+<br/>
+### Planning the Network
+<br/ >
 Without going into too much detail, my approach to planning the network is based off a fairly new theory of public transport network planning called '<a href="https://researchbank.rmit.edu.au/view/rmit:36096" target="_blank">Triangle Town</a>'.
 
 Basically, it is based off a Swiss approach to regional public transport which involves connecting primary and secondary nods with each other in increasingly smaller triangles. The process involves a number of steps, but can be briefly summarised as progressively identifying and connecting nodes of primary, secondary and tertiary importance to create a network 'backbone' along which services can run.
