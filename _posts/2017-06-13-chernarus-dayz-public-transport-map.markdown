@@ -7,8 +7,8 @@ comments: true
 ---
 {% include map_header.html %}
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/map_post_headers/1.png">
+<div class="img_row_map">
+	<img class="col three" src="{{ site.baseurl }}/img/maps/Chernarus_Schematic_Public_Transport_Map_V2.png">
 </div>
 
 Chernarus: a forgotten region in the windswept depths of Eastern Europe, it still bears the scars of a recent past dominated by the Soviet Union.
@@ -22,8 +22,9 @@ As an avid player, I could hardly pass up the cartographical opportunities that 
 <hr>
 <br/>
 ### The Map
+
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/maps/Chernarus_Schematic_Public_Transport_Map_V2.png">
+	<img class="col three" src="{{ site.baseurl }}/img/map_post_headers/1.png">
 </div>
 
 This is a revised version of a project to map a plausible pre-apocalypse public transport system for Chernarus. The first version, available <a href="https://philam.github.io/chernaruspublictransport/" target="_blank">here</a>, has a number of issues and areas for improvement.
@@ -41,6 +42,7 @@ Some other changes from the previous version include:
 </ul>
 
 ### Planning the Network
+
 Without going into too much detail, my approach to planning the network is based off a fairly new theory of public transport network planning called '<a href="https://researchbank.rmit.edu.au/view/rmit:36096" target="_blank">Triangle Town</a>'.
 
 Basically, it is based off a Swiss approach to regional public transport which involves connecting primary and secondary nods with each other in increasingly smaller triangles. The process involves a number of steps, but can be briefly summarised as progressively identifying and connecting nodes of primary, secondary and tertiary importance to create a network 'backbone' along which services can run.
