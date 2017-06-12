@@ -5,8 +5,6 @@ date: 2017-06-11 21:30:00
 description: every website has to start somewhere
 comments: true
 ---
-{% include map_header.html %}
-
 Every website has to start somewhere.
 
 This one is for maps that I create and publish. These have most recently made since I began studying urban planning and found some incredible uses for cartographical material. Setting up a place where I can more appropriately and comprehensively discuss these designs seems like a good idea (but only time will tell).
