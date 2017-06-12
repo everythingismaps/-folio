@@ -3,6 +3,7 @@ layout: post
 title: chernarus public transport map
 date: 2017-06-13 13:00:00
 description: fictional map of public transport in Chernarus
+comments: true
 ---
 {% include map_header.html %}
 
@@ -30,6 +31,4 @@ Some other changes from the previous version include:
 	<li>Adding 'Chernarus Transit' logo</li>
 </ul>
 
-If you would like to use this map, please <a href="http://philipmallis.com/about" target="_blank">contact me</a>.
-
-You can also obtain a high-quality version of this map for printing 
+If you would like to use this map and/or obtain a high-quality PDF for printing, please <a href="http://philipmallis.com/about" target="_blank">contact me</a>.
