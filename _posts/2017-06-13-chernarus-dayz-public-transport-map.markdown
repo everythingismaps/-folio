@@ -17,7 +17,7 @@ Today it is at the epicentre of a zombie outbreak sweeping across the world. Ord
 
 None of this is of course true. Chernarus is famous not as the scene of a civilisation-destroying zombie apocalypse, but rather as the fictional setting for the popular DayZ survival video game.
 
-As an avid player, I could hardly pass up the cartographical opportunities that this massive 225 km<sup>2</sup> map presented. This map of an imagined pre-outbreak public transport system is my first dive into the depths of the extensive DayZ lore and geography.
+As an avid player, I could hardly pass up the cartographical opportunities that this massive 225 km<sup>2</sup> map presented. This map of an imagined pre-outbreak public transport system is my second dive into the depths of the extensive DayZ lore and geography.
 
 <hr>
 <br/>
