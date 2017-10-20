@@ -54,6 +54,7 @@ To make the network easier to understand, I decided to arrange lines into six gr
 | Bourke	    | 86, 96      | All travel down Bourke Street. |
 | Flinders	    | 70, 75      | All travel down Flinders Street. |
 | Suburban      | 78, 82      | The only two lines that do not travel to the CBD. |
+
 <br/>
 <br/>
 These are arbitrary groupings to a certain extent. However, I have tried to make them as logical and few in number as possible based on common routes and other similarities.
