@@ -8,7 +8,7 @@ comments: true
 {% include map_header.html %}
 
 <div class="img_row_map">
-	<a href="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png.png"></a>
+	<a href="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"></a>
 </div>
 
 Earlier this year, Yarra Trams and Public Transport Victoria (PTV) <a href="https://www.ptv.vic.gov.au/news-and-events/news/new-train-network-map-for-victoria/" target="_blank">released a new map</a> for Melbourne's tram network. At the time, I was already working on this new version of my own.
