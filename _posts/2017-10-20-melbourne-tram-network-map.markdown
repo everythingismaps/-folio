@@ -54,7 +54,8 @@ To make the network easier to understand, I decided to arrange lines into six gr
 | Bourke	    | 86, 96      | All travel down Bourke Street. |
 | Flinders	    | 70, 75      | All travel down Flinders Street. |
 | Suburban      | 78, 82      | The only two lines that do not travel to the CBD. |
-
+<br/>
+<br/>
 These are arbitrary groupings to a certain extent. However, I have tried to make them as logical and few in number as possible based on common routes and other similarities.
 
 The main aim here is to make the lines easier to read. At the moment, line colours on the PTV map are randomly selected from a standard colour palette. There are some advantages to this approach. But to my mind it makes the map look more difficult to understand.
