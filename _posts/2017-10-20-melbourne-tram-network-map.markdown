@@ -1,7 +1,7 @@
 ---
 layout: post
 title: melbourne tram map
-date: 2017-10-20 17:00:00
+date: 2017-10-20 11:30:00
 description: a new map for the largest tram network in the world
 comments: true
 ---
@@ -47,7 +47,7 @@ To make the network easier to understand, I decided to arrange lines into six gr
 </ul>
 
 | Group	        | Lines        | Notes |
-| ------------- |:-------------:| ----------------:|
+| ------------- |:-------------:| ----------------|
 | Swanston      | 1, 3, 3a, 5, 6, 16, 64, 67, 72 | All lines travel down Swanston Street/St Kilda Road. |
 | North-West    | 19, 57, 58, 59      | All travel down Elizabeth Street except for the 58. |
 | East 			| 11, 12, 30, 48, 109     |  I would have called this 'Collins' were it not for the 30. |
