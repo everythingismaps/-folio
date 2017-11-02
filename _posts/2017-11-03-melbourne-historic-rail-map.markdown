@@ -8,7 +8,7 @@ comments: true
 {% include map_header.html %}
 
 <div class="img_row_map">
-	<a href="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"></a>
+	<a href="{{ site.baseurl }}/img/maps/Melbourne_Historical_Railway Network_v1.0.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Historical_Railway Network_v1.0.png"></a>
 </div>
 
 This time I am trying something a little bit different - a historical map of Melbourne's railway lines.
