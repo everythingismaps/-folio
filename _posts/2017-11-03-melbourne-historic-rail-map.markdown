@@ -79,7 +79,7 @@ As I said above, these were pure judgement calls on my part. Happy to hear alter
 	<li>I am aware that there was another East Camberwell Station just south of the present site on the Outer Circle Line. This is not included for practical space reasons, as well as the fact that it had the same name as the present station.</li>
 	<li>Some of the ticketing zones have changed slightly from their present-day boundaries. I have made these changes based on the fact that with some of these railway lines in existence, the current zones would make no sense. For example, at the southern end of the Outer Circle Line, the present-day Alamein Line located entirely in Zone 1, would intersect with the Zone 1+2 overlap on the Glen Waverley Line. As a consequence, I have pushed the overlap out two stations on the Glen Waverley Line to begin at Holmesglen rather than Darling.</li>
 	<li>Small branches in operation for very short periods of time, such as the St Kilda - Windsor branch, have not been included.</li>
-	<li>Yes, the railway station was spelled 'Queenscliff' without an 'e'.
+	<li>Yes, the railway station was spelled 'Queenscliff' without an 'e'.</li>
 </ul>
 
 ### Data
