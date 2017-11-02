@@ -8,7 +8,7 @@ comments: true
 {% include map_header.html %}
 
 <div class="img_row_map">
-	<a href="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.3_web.png"></a>
+	<a href="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.4_web.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Tram_Route_Map_Schematic_v0.4_web.png"></a>
 </div>
 
 Earlier this year, Yarra Trams and Public Transport Victoria (PTV) <a href="https://www.ptv.vic.gov.au/news-and-events/news/new-train-network-map-for-victoria/" target="_blank">released a new map</a> for Melbourne's tram network. At the time, I was already working on this new version of my own.
@@ -39,9 +39,10 @@ The most obvious difference from the official map is line grouping and colours.
 To make the network easier to understand, I decided to arrange lines into six groups:
 <ul>
 	<li>Swanston</li>
-	<li>North-West</li>
-	<li>East</li>
+	<li>Elizabeth</li>
+	<li>Collins</li>
 	<li>Bourke</li>
+	<li>La Trobe</li>
 	<li>Flinders</li>
 	<li>Suburban</li>
 </ul>
@@ -49,9 +50,10 @@ To make the network easier to understand, I decided to arrange lines into six gr
 | Group	        | Lines        | Notes |
 | ------------- |:-------------:| ----------------|
 | Swanston      | 1, 3, 3a, 5, 6, 16, 64, 67, 72 | All lines travel down Swanston Street/St Kilda Road. |
-| North-West    | 19, 57, 58, 59      | All travel down Elizabeth Street except for the 58. |
-| East 			| 11, 12, 30, 48, 109     |  I would have called this 'Collins' were it not for the 30. |
+| Elizabeth   	| 19, 57, 58, 59      | All travel down Elizabeth Street except for the 58. |
+| Collins		| 11, 12, 48, 109     |  Changed this group from 'East' to 'Collins' by moving the 30 into a new 'La Trobe' group with the City Circle (35). |
 | Bourke	    | 86, 96      | All travel down Bourke Street. |
+| La Trobe		| 30, 35		| New group created in v0.4
 | Flinders	    | 70, 75      | All travel down Flinders Street. |
 | Suburban      | 78, 82      | The only two lines that do not travel to the CBD. |
 
@@ -78,6 +80,8 @@ I adopted a rule of thumb for including interchang symbols. To avoid the map app
 ### Future development
 
 <br>
-This map is not perfect and is still really in a sort of beta (hence the 0.3 version numbering). For example, I tested out including railway stations on this map but it ended up being too cluttered and difficult to read.
+This map is not perfect and is still really in a sort of beta. For example, I tested out including railway stations on this map but it ended up being too cluttered and difficult to read. However, based on feedback from v0.3, I will look at including them in a future version to see how it turns out.
 
 If you have any feedback or suggestions for improvement, please let me know.
+
+UPDATE (2017-11-03): based on <a href="https://www.reddit.com/r/melbourne/comments/78419q/a_new_map_of_melbournes_tram_network_feedback/">feedback from Reddit</a>, I have made some changes and corrections to the map. Large-scale changes like adding landmarks and railway stations will need to come in a future release. This is due to the significant redesign and realignment that will need to take place.
