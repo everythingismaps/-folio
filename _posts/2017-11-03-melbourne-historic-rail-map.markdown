@@ -8,7 +8,7 @@ comments: true
 {% include map_header.html %}
 
 <div class="img_row_map">
-	<a href="{{ site.baseurl }}/img/maps/Melbourne_Historical_Railway Network_v1.0.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Historical_Railway Network_v1.0.png"></a>
+	<a href="{{ site.baseurl }}/img/maps/Melbourne_Historical_Railway Network_v1.1.png"><img class="col three" src="{{ site.baseurl }}/img/maps/Melbourne_Historical_Railway Network_v1.1.png"></a>
 </div>
 
 This time I am trying something a little bit different - a historical map of Melbourne's railway lines.
@@ -98,6 +98,24 @@ The data showing all current and former railways and railway stations was surpri
 
 <br>
 Not being someone very well versed in historic railways, I have probably made a couple of errors. If you find anything that is missing or needs improvement, please do not hesitate to let me know.
+
+UPDATE 2017-11-04: thanks once again to the feedback from Reddit and rail Facebook groups, I have made a number of additions of railways and stations that I missed in v1.0:
+
+<ul>
+	<li>Added Gembrook Line (Puffing Billy)</li>
+	<li>Added Springvale Cemetery branch</li>
+	<li>Added Williamstown Racecourse Station</li>
+	<li>Added Williamstown Pier Station</li>
+	<li>Added White City Station</li>
+	<li>Added V/Line track from Werribee</li>
+	<li>Added Upfield to Somerton track</li>
+	<li>Added Altona Beach Station</li>
+	<li>Added Hatherley Station</li>
+	<li>Fixed spelling of 'Traralgon'</li>
+	<li>Added Manor Station</li>
+	<li>Added Botanical Gardens Station</li>
+	<li>Added Campbellfield Station</li>
+</ul>
 
 I hope to also work on three further projects out of this map:
 
