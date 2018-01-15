@@ -4,6 +4,7 @@ title: the beginning
 date: 2017-06-11 21:30:00
 description: every website has to start somewhere
 comments: true
+redirect_to: "https://maps.philipmallis.com/the-beginning"
 ---
 Every website has to start somewhere.
 
