@@ -4,6 +4,7 @@ title: what are schematic maps?
 date: 2017-06-20 10:00:00
 description: an explanation of the differences between schematic and geographical maps
 comments: true
+redirect_to: "https://maps.philipmallis.com/what-are-schematic-maps/"
 ---
 After the publication of my <a href="/2017/06/13/chernarus-dayz-public-transport-map.html">schematic public transport map of Chernarus</a>, there was some confusion about the design and purpose of the map. Hopefully this post will clarify some things.
 
