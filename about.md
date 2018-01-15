@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+redirect_to: "https://maps.philipmallis.com"
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
