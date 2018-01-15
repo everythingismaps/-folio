@@ -23,4 +23,5 @@ collections:
     output: false
     permalink: /portfolio/:path/
 
-
+plugins:
+  - jekyll-redirect-from
