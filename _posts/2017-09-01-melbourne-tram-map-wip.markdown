@@ -4,6 +4,7 @@ title: melbourne tram map - wip
 date: 2017-09-01 16:00:00
 description: sneak preview of new project
 comments: true
+redirect_to: "https://maps.philipmallis.com"
 ---
 
 After a recent hiatus due to a long holiday overseas, I have resumed work on a project that I have been intermittently working on for a few months.
