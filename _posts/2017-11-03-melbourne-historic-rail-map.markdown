@@ -4,6 +4,7 @@ title: historic melbourne rail map
 date: 2017-11-03 10:30:00
 description: what if none of the railways had closed?
 comments: true
+redirect_to: "https://maps.philipmallis.com/historical-melbourne-rail-map/"
 ---
 {% include map_header.html %}
 
