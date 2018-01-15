@@ -4,6 +4,7 @@ title: melbourne tram map
 date: 2017-10-20 11:30:00
 description: a new map for the largest tram network in the world
 comments: true
+redirect_to: "https://maps.philipmallis.com/melbourne-tram-map/"
 ---
 {% include map_header.html %}
 
