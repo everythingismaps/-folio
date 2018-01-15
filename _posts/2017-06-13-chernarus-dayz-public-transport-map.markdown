@@ -4,6 +4,7 @@ title: chernarus public transport map
 date: 2017-06-13 10:00:00
 description: a fictional map of public transport in Chernarus
 comments: true
+redirect_to: "https://maps.philipmallis.com/chernarus-public-transport-map/"
 ---
 {% include map_header.html %}
 
